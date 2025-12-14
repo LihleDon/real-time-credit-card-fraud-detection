@@ -1,4 +1,4 @@
-# 🛡️ Real-Time Credit Card Fraud Detection System (Live Demo 👇)
+# 🛡️ Real-Time Credit Card Fraud Detection System (Live Demo)
 
 **Live Dashboard:** https://your-streamlit-app.streamlit.app  
 **30-second Demo:**  
